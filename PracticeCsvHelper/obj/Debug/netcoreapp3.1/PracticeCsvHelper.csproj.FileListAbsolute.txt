@@ -1,0 +1,14 @@
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/bin/Debug/netcoreapp3.1/PracticeCsvHelper.deps.json
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/bin/Debug/netcoreapp3.1/PracticeCsvHelper.runtimeconfig.json
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/bin/Debug/netcoreapp3.1/PracticeCsvHelper.runtimeconfig.dev.json
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/bin/Debug/netcoreapp3.1/PracticeCsvHelper.dll
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/bin/Debug/netcoreapp3.1/PracticeCsvHelper.pdb
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.csprojAssemblyReference.cache
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.csproj.CoreCompileInputs.cache
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.AssemblyInfoInputs.cache
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.AssemblyInfo.cs
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.dll
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.pdb
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.genruntimeconfig.cache
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/bin/Debug/netcoreapp3.1/CsvHelper.dll
+/Users/siqiliu/Projects/PracticeCsvHelper/PracticeCsvHelper/obj/Debug/netcoreapp3.1/PracticeCsvHelper.csproj.CopyComplete

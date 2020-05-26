@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A017F0D6-5459-4A3F-9B27-A44984524B34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PracticeCsvHelper/Program.cs">
+    <Files>
+      <File FileName="PracticeCsvHelper/Program.cs" Line="41" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PracticeCsvHelper" expanded="True">
+            <Node name="PracticeCsvHelper" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PracticeCsvHelper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
